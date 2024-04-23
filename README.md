@@ -1,5 +1,5 @@
-<H3>NAME: Parshwanath M</H3>
-<H3>REGISTER NO : 212221230073</H3>
+<H3>NAME: Ragul M</H3>
+<H3>REGISTER NO : 212221230080</H3>
 <H3>EX. NO.6</H3>
 <H3>DATE:23/04/2024</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic ANalysis</H1>
